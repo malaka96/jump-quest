@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Banana
+  - Spikes
+  - CheckPoint
+  - Portal
+  - JTigger
+  - WTigger
+  - PTigger
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Sky
+    uniqueID: 1310096331
+    locked: 0
+  - name: Ground
+    uniqueID: 298694735
+    locked: 0
+  - name: Player
+    uniqueID: 263263315
+    locked: 0
+  - name: Platform
+    uniqueID: 3976769547
+    locked: 0
+  m_RenderingLayers:
+  - Default
